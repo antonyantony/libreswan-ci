@@ -8,7 +8,7 @@ os:
 compiler:
   - gcc
 
-dist: xenial
+dist: focal
 
 before_install:
   - echo $PWD
